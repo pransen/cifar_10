@@ -1,0 +1,2 @@
+# cifar_10
+A CNN for experimenting on the CIFAR 10 dataset
